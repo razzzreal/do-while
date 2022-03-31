@@ -1,4 +1,4 @@
-<!-- #include<stdio.h>  /* print atleast once*/
+ #include<stdio.h>  /* print atleast once*/
 void main()
 {
     int a=10;
